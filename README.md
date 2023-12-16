@@ -1,2 +1,2 @@
-# Elogquent Luncheon Menu - Ethan, Kimmy, and David
+# ElogquentLuncheonMenu-Ethan,Kimmy,andDavid,github.io
 Menu =)
