@@ -1,2 +1,2 @@
-# Hello-There-Ethan.github.io
+# Elogquent Luncheon Menu - Ethan, Kimmy, and David
 Menu =)
